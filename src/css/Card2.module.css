@@ -1,0 +1,20 @@
+.card{
+    width: 290px;
+    height: 84px;
+    margin: 25px 0;
+    box-sizing: border-box;
+    padding-top: 12px;
+    border: 1px solid  #8d6354;
+    background: linear-gradient(#c7a599 65%, #8d6354);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    color: #5a2700;
+}
+.pic{
+    height: 60px;
+    border-radius: 2px;
+    margin-left: 15px;
+}

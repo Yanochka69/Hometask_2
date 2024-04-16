@@ -1,0 +1,26 @@
+.card{
+    width: 230px;
+    height: 210px;
+    margin: 25px 0;
+    box-sizing: border-box;
+    border: 1px solid  #8d6354;
+    background: linear-gradient(#c7a599 65%, #8d6354);
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    text-align: center;
+    color: #5a2700;
+}
+.li_style{
+    list-style-type: square;
+    padding-left: 0px;
+}
+.ul_style{
+    padding-left: 0px;
+    list-style-position: inside;
+}
+.pic{
+    height: 60px;
+    border-radius: 2px;
+    margin-left: 15px;
+}
